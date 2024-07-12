@@ -1,0 +1,16 @@
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\bin\Debug\net8.0-windows\RobotMVC.exe
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\bin\Debug\net8.0-windows\RobotMVC.deps.json
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\bin\Debug\net8.0-windows\RobotMVC.runtimeconfig.json
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\bin\Debug\net8.0-windows\RobotMVC.dll
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\bin\Debug\net8.0-windows\RobotMVC.pdb
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\obj\Debug\net8.0-windows\RobotMVC.GameView.resources
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\obj\Debug\net8.0-windows\RobotMVC.csproj.GenerateResource.cache
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\obj\Debug\net8.0-windows\RobotMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\obj\Debug\net8.0-windows\RobotMVC.AssemblyInfoInputs.cache
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\obj\Debug\net8.0-windows\RobotMVC.AssemblyInfo.cs
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\obj\Debug\net8.0-windows\RobotMVC.csproj.CoreCompileInputs.cache
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\obj\Debug\net8.0-windows\RobotMVC.dll
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\obj\Debug\net8.0-windows\refint\RobotMVC.dll
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\obj\Debug\net8.0-windows\RobotMVC.pdb
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\obj\Debug\net8.0-windows\RobotMVC.genruntimeconfig.cache
+C:\Users\Арслан\source\repos\RobotMVC\RobotMVC\obj\Debug\net8.0-windows\ref\RobotMVC.dll
